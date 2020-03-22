@@ -1,7 +1,8 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+/xumi_back/node_modules
+/xumi_front/node_modules
 
 # testing
 /coverage
