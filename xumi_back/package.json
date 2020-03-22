@@ -1,0 +1,23 @@
+{
+  "name": "back_xumi01",
+  "version": "0.0.1",
+  "description": "backend_xumi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "api",
+    "uade"
+  ],
+  "author": "emilio amarillo",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "fastify": "^2.13.0",
+    "fastify-cors": "^3.0.2",
+    "mongoose": "^5.9.5"
+  },
+  "start": "./node_modules/nodemon/bin/nodemon.js ./src/index.js"
+}
