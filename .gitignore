@@ -4,6 +4,10 @@
 /xumi_back/node_modules
 /xumi_front/node_modules
 
+# constantes privadas
+PrivateKeys.js
+
+
 # testing
 /coverage
 
